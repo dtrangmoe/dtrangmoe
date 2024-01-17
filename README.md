@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dtrangmoe
-- 👀 I’m interested in using data visualization to communicate climate change concepts
-- 🌱 I’m currently learning the fundamentals of R
+
 
 
 <!---
